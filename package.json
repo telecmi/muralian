@@ -1,6 +1,6 @@
 {
   "name": "muralian",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple JSON Validation engine with direct Data Types",
   "main": "index.js",
   "type": "module",
@@ -12,5 +12,9 @@
   "dependencies": {
     "joi": "^17.12.3"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/telecmi/muralian.git"
+},
   "devDependencies": {}
 }
